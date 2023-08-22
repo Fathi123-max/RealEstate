@@ -1,9 +1,10 @@
-import '../controller/select_virtual_app_controller.dart';
-import '../models/listwhatsapp_item_model.dart';
 import 'package:escan/core/app_export.dart';
 import 'package:escan/widgets/custom_icon_button.dart';
 import 'package:escan/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
+
+import '../controller/select_virtual_app_controller.dart';
+import '../models/listwhatsapp_item_model.dart';
 
 // ignore: must_be_immutable
 class ListwhatsappItemWidget extends StatelessWidget {
@@ -103,7 +104,8 @@ class ListwhatsappItemWidget extends StatelessWidget {
             ),
             CustomTextFormField(
               focusNode: FocusNode(),
-              controller: listwhatsappItemModelObj.streetaddressController,
+              controller:
+                  listwhatsappItemModelObj.streetaddressController.value,
               hintText: "lbl_email".tr,
               margin: getMargin(
                 top: 3,
