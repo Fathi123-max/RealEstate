@@ -1,7 +1,9 @@
-import 'package:get/get.dart';class ListhomeItemModel {Rx<String> therearegooddeaOneTxt = Rx("There are good deals");
+import 'package:get/get.dart';
 
-Rx<String> distanceTxt = Rx("1m ago");
+class ListhomeItemModel {
+  Rx<String> therearegooddeaOneTxt = Rx("There are good deals");
 
-Rx<String>? id = Rx("");
+  Rx<String> distanceTxt = Rx("1m ago");
 
- }
+  Rx<String>? id = Rx("");
+}

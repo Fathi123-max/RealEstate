@@ -1,1 +1,1 @@
-class HomeContainerModel { }
+class HomeContainerModel {}

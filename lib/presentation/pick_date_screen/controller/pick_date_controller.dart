@@ -1,5 +1,16 @@
-import 'package:escan/core/app_export.dart';import 'package:escan/presentation/pick_date_screen/models/pick_date_model.dart';class PickDateController extends GetxController {Rx<PickDateModel> pickDateModelObj = PickDateModel().obs;
+import 'package:escan/core/app_export.dart';
+import 'package:escan/presentation/pick_date_screen/models/pick_date_model.dart';
 
-@override void onReady() { super.onReady(); } 
-@override void onClose() { super.onClose(); } 
- }
+class PickDateController extends GetxController {
+  Rx<PickDateModel> pickDateModelObj = PickDateModel().obs;
+
+  @override
+  void onReady() {
+    super.onReady();
+  }
+
+  @override
+  void onClose() {
+    super.onClose();
+  }
+}

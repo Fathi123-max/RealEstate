@@ -1,1 +1,1 @@
-class VerifyPhoneNumberModel { }
+class VerifyPhoneNumberModel {}

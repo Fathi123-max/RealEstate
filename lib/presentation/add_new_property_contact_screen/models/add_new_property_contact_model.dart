@@ -1,1 +1,1 @@
-class AddNewPropertyContactModel { }
+class AddNewPropertyContactModel {}

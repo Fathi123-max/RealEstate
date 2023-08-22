@@ -563,6 +563,7 @@ enum ButtonShape {
   RoundedBorder16,
   CircleBorder13,
 }
+
 enum ButtonPadding {
   PaddingAll16,
   PaddingAll13,
@@ -573,6 +574,7 @@ enum ButtonPadding {
   PaddingT10,
   PaddingT9,
 }
+
 enum ButtonVariant {
   FillBlue500,
   OutlineBluegray500,
@@ -588,6 +590,7 @@ enum ButtonVariant {
   FillBluegray50,
   OutlineBlue500_3,
 }
+
 enum ButtonFontStyle {
   ManropeBold16WhiteA700_1,
   ManropeBold16Bluegray50,

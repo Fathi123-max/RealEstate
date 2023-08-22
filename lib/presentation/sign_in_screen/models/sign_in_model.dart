@@ -1,1 +1,1 @@
-class SignInModel { }
+class SignInModel {}

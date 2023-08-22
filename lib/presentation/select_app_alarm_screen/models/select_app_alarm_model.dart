@@ -1,1 +1,1 @@
-class SelectAppAlarmModel { }
+class SelectAppAlarmModel {}

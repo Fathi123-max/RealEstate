@@ -1,1 +1,1 @@
-class ConfirmRequestModel { }
+class ConfirmRequestModel {}

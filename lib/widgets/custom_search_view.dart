@@ -167,14 +167,17 @@ class CustomSearchView extends StatelessWidget {
 enum SearchViewShape {
   RoundedBorder10,
 }
+
 enum SearchViewPadding {
   PaddingT16,
   PaddingT17,
 }
+
 enum SearchViewVariant {
   None,
   OutlineGray300,
 }
+
 enum SearchViewFontStyle {
   Manrope16Bluegray500,
 }

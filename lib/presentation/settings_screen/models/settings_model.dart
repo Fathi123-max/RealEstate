@@ -1,1 +1,1 @@
-class SettingsModel { }
+class SettingsModel {}

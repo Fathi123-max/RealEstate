@@ -208,14 +208,17 @@ class CustomDropDown extends StatelessWidget {
 enum DropDownShape {
   RoundedBorder10,
 }
+
 enum DropDownPadding {
   PaddingT11,
 }
+
 enum DropDownVariant {
   None,
   OutlineBluegray400,
   FillBluegray50,
 }
+
 enum DropDownFontStyle {
   ManropeRegular14Bluegray500,
   ManropeSemiBold14Gray900,

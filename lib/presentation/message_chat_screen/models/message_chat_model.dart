@@ -1,1 +1,1 @@
-class MessageChatModel { }
+class MessageChatModel {}

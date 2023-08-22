@@ -1,9 +1,11 @@
-import 'package:get/get.dart';class ListdateItemModel {Rx<String> dateTxt = Rx("28/12/2021");
+import 'package:get/get.dart';
 
-Rx<String> listedforsaleTxt = Rx("Listed for Sale");
+class ListdateItemModel {
+  Rx<String> dateTxt = Rx("28/12/2021");
 
-Rx<String> priceTxt = Rx("2,400");
+  Rx<String> listedforsaleTxt = Rx("Listed for Sale");
 
-Rx<String>? id = Rx("");
+  Rx<String> priceTxt = Rx("2,400");
 
- }
+  Rx<String>? id = Rx("");
+}

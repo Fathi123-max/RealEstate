@@ -1,7 +1,9 @@
-import 'package:get/get.dart';class Dates1ItemModel {Rx<String> weekdayTxt = Rx("MONDAY");
+import 'package:get/get.dart';
 
-Rx<String> dateTxt = Rx("11");
+class Dates1ItemModel {
+  Rx<String> weekdayTxt = Rx("MONDAY");
 
-Rx<String>? id = Rx("");
+  Rx<String> dateTxt = Rx("11");
 
- }
+  Rx<String>? id = Rx("");
+}

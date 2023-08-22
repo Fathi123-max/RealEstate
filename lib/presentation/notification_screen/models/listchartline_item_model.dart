@@ -1,9 +1,12 @@
-import 'package:get/get.dart';class ListchartlineItemModel {Rx<String> thehousewiththeOneTxt = Rx("The house with the best...");
+import 'package:get/get.dart';
 
-Rx<String> thereareseveralOneTxt = Rx("There are several houses currently on sale that you can check");
+class ListchartlineItemModel {
+  Rx<String> thehousewiththeOneTxt = Rx("The house with the best...");
 
-Rx<String> durationTxt = Rx("4 days");
+  Rx<String> thereareseveralOneTxt =
+      Rx("There are several houses currently on sale that you can check");
 
-Rx<String>? id = Rx("");
+  Rx<String> durationTxt = Rx("4 days");
 
- }
+  Rx<String>? id = Rx("");
+}

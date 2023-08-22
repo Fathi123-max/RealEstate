@@ -1,1 +1,1 @@
-class MyHomeEmptyModel { }
+class MyHomeEmptyModel {}

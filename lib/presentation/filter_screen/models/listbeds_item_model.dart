@@ -1,7 +1,9 @@
-import 'package:get/get.dart';class ListbedsItemModel {Rx<String> bedsTxt = Rx("Beds");
+import 'package:get/get.dart';
 
-Rx<String> fourTxt = Rx("4");
+class ListbedsItemModel {
+  Rx<String> bedsTxt = Rx("Beds");
 
-Rx<String>? id = Rx("");
+  Rx<String> fourTxt = Rx("4");
 
- }
+  Rx<String>? id = Rx("");
+}

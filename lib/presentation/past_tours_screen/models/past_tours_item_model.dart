@@ -1,5 +1,7 @@
-import 'package:get/get.dart';class PastToursItemModel {Rx<String> canceledTxt = Rx("Canceled");
+import 'package:get/get.dart';
 
-Rx<String>? id = Rx("");
+class PastToursItemModel {
+  Rx<String> canceledTxt = Rx("Canceled");
 
- }
+  Rx<String>? id = Rx("");
+}

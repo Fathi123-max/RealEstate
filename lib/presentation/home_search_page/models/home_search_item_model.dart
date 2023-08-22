@@ -1,5 +1,7 @@
-import 'package:get/get.dart';class HomeSearchItemModel {Rx<String> mightycincofamiOneTxt = Rx("Mighty Cinco Family");
+import 'package:get/get.dart';
 
-Rx<String>? id = Rx("");
+class HomeSearchItemModel {
+  Rx<String> mightycincofamiOneTxt = Rx("Mighty Cinco Family");
 
- }
+  Rx<String>? id = Rx("");
+}

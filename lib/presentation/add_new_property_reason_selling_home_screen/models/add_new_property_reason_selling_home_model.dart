@@ -1,1 +1,1 @@
-class AddNewPropertyReasonSellingHomeModel { }
+class AddNewPropertyReasonSellingHomeModel {}

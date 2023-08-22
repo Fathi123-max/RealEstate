@@ -1,1 +1,1 @@
-class AddNewPropertyTimeToSellModel { }
+class AddNewPropertyTimeToSellModel {}

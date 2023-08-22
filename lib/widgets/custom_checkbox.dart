@@ -210,6 +210,9 @@ class CustomCheckbox extends StatelessWidget {
 }
 
 enum CheckboxShape { RoundedBorder8 }
+
 enum CheckboxPadding { PaddingT14 }
+
 enum CheckboxVariant { OutlineGray300 }
+
 enum CheckboxFontStyle { ManropeSemiBold14Gray900, ManropeSemiBold12 }

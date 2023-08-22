@@ -1,1 +1,1 @@
-class HomeListingDrawModel { }
+class HomeListingDrawModel {}

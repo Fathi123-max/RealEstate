@@ -265,12 +265,14 @@ enum TextFormFieldShape {
   RoundedBorder10,
   CircleBorder24,
 }
+
 enum TextFormFieldPadding {
   PaddingAll16,
   PaddingT14,
   PaddingAll5,
   PaddingT13,
 }
+
 enum TextFormFieldVariant {
   None,
   FillBluegray50,
@@ -279,6 +281,7 @@ enum TextFormFieldVariant {
   OutlineBluegray40014,
   OutlineBlue500,
 }
+
 enum TextFormFieldFontStyle {
   ManropeMedium14Bluegray500,
   ManropeSemiBold14Gray900,

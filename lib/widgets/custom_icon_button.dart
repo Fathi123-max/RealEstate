@@ -250,11 +250,13 @@ enum IconButtonShape {
   RoundedBorder5,
   CircleBorder24,
 }
+
 enum IconButtonPadding {
   PaddingAll8,
   PaddingAll12,
   PaddingAll5,
 }
+
 enum IconButtonVariant {
   OutlineGray300,
   OutlineBluegray50,

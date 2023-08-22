@@ -1,1 +1,1 @@
-class HomeListingSateliteModel { }
+class HomeListingSateliteModel {}

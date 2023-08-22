@@ -1,1 +1,1 @@
-class RecentlyViewsModel { }
+class RecentlyViewsModel {}

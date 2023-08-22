@@ -1,9 +1,11 @@
-import 'package:get/get.dart';class ListestimatepriceItemModel {Rx<String> estimatepriceTxt = Rx("Estimate price");
+import 'package:get/get.dart';
 
-Rx<String> priceTxt = Rx("4,200.00");
+class ListestimatepriceItemModel {
+  Rx<String> estimatepriceTxt = Rx("Estimate price");
 
-Rx<String> group34508Txt = Rx("-4%");
+  Rx<String> priceTxt = Rx("4,200.00");
 
-Rx<String>? id = Rx("");
+  Rx<String> group34508Txt = Rx("-4%");
 
- }
+  Rx<String>? id = Rx("");
+}

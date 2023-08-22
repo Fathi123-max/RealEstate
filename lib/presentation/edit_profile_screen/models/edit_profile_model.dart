@@ -1,1 +1,1 @@
-class EditProfileModel { }
+class EditProfileModel {}

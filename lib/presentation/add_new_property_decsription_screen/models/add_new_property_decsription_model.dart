@@ -1,1 +1,1 @@
-class AddNewPropertyDecsriptionModel { }
+class AddNewPropertyDecsriptionModel {}

@@ -1,1 +1,1 @@
-class NotificationEmptyStatesModel { }
+class NotificationEmptyStatesModel {}

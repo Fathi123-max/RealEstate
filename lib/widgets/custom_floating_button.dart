@@ -84,6 +84,7 @@ class CustomFloatingButton extends StatelessWidget {
 enum FloatingButtonShape {
   RoundedBorder10,
 }
+
 enum FloatingButtonVariant {
   FillBlue500,
 }
