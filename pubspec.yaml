@@ -25,7 +25,9 @@ dependencies:
   fluttertoast: ^8.0.8
   permission_handler: ^10.0.0
   images_picker: ^1.2.11
+  
   flutter_contacts: ^1.1.5
+  firebase_core: ^2.15.1
 dev_dependencies: 
   flutter_test: 
     sdk: flutter
